@@ -1,0 +1,7 @@
+{
+  "name": "react",
+  "version": "0.14.7",
+  "description": "Minified React",
+  "main": "index.js",
+  "author": "Serge Borbit"
+}
